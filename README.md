@@ -42,5 +42,5 @@ Versiones:
 - __react-redux__: 7.2.3
 
 ## Para Levantar este proyecto usa en la terminal:
-__npm i__
-__npm start__
+npm i
+npm start
